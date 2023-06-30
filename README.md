@@ -34,7 +34,7 @@ git clone https://github.com/salil-01/Rock-Paper-Scissor-Game.git
 2. Navigate to the project directory:
 
 ```
-cd rock-paper-scissors
+cd Rock-Paper-Scissor-Game
 ```
 
 3. Run the game:
