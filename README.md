@@ -28,7 +28,7 @@ The rules for winning a single round are as follows:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/salil-01/Rock-Paper-Scissor-Game.git
 ```
 
 2. Navigate to the project directory:
